@@ -40,6 +40,7 @@ I also have a deep understanding of TypeScript and teach patterns for building R
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Material-ui" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/material-ui.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
+<img align="left" alt="Vuejs" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />
 
 
 [linkedin]: https://www.linkedin.com/in/piotr-sienkiewicz-679a3152/
