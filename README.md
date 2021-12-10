@@ -9,9 +9,8 @@ I also have a deep understanding of TypeScript and teach patterns for building R
 
 - 🔭 You need to know the rules before you start breaking them. 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for a job in a small company where I can improve my English and technickal skills. 
-- 🥅 2020 Goals: since 2008 I have not changed directions, but in 2020 I changed my profession 
-- ⚡ Fun fact: I'm the king of family photography
+- 👯 I'm looking for opportunities to improve my English.
+- ⚡ Fun fact: I'm the king of the family photography
 
 
 ### 📫 How to reach me:
